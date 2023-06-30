@@ -1,0 +1,5 @@
+﻿  Project2.cpp
+E:\visual studio\repos\Project2\SoftwareColors.h(23,2): warning C4091: 'typedef ': ignored on left of 'Color' when no variable is declared
+E:\visual studio\repos\Project2\Project2.cpp(59,22): warning C4244: '=': conversion from 'WPARAM' to 'int', possible loss of data
+E:\visual studio\repos\Project2\Project2.cpp(132): warning C4715: 'SoftwareMainProcedure': not all control paths return a value
+  Project2.vcxproj -> E:\visual studio\repos\Project2\x64\Debug\Project2.exe
